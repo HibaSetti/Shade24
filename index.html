@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/bootstrap.min.css" rel="stylesheet"> 
+  <script src="https://kit.fontawesome.com/db5a3da844.js" crossorigin="anonymous"></script>
+    <link href="css/main.css" rel="stylesheet">
+  <title>Schade 24 | Home</title>
+</head>
+<body>
+  <header>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+       <div class="logo">
+        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+       </div> 
+
+        <div id="mySidenav" class="sidenav">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+          <a href="#">Home</a>
+          <a href="#">Blog</a>
+          <a href="#">How it works</a>
+          <a href="#" style="margin-top: 30px;">About us</a>
+          <a href="#">FAQ</a>
+          <a href="#" class="third" style="margin-top: 30px;">Report Damage</a>
+        </div>
+        <span onclick="openNav()">&#9776;</span>
+        </div>  
+      </div>
+    <section class="One">
+      <div class="container">
+        <div class="left-block">
+          <h1>
+            Your damage, our concern
+          </h1>
+          <p>Insured on the road within 5 minutes</p>
+          
+          <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
+          </div>
+          <div class="right-block">
+          <img src="images/home1.svg" />
+          </div>
+      </div>
+    </section>
+</header>
+<section class="Two">
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita saepe illo et quidem corporis assumenda quod, dignissimos enim impedit esse est ratione, eligendi eveniet consequatur architecto labore repellat ullam sed.
+</section>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+  }
+  </script>
+</body>
+</html>
