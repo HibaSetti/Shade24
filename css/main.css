@@ -4,6 +4,7 @@
   }
 html, body {
     font-family: Montserrat ;
+    scroll-behavior: smooth;
 }
 header
 {
@@ -27,26 +28,26 @@ header
 }
 
 
-.left-block {
+.One .left-block {
     float: left;
     width: 46%;
     color:white;
     margin-top: 195px;
 }
-.left-block h1 {
+.One .left-block h1 {
     font-weight: 700;
     font-size: 48px;
 }
-.left-block button {
+.One .left-block button {
     color: #FF8E4E;
     margin-top: 20px;
     font-weight: 600;
 }
-.left-block p {
+.One .left-block p {
     font-size: 18px;
     margin-top: 20px;
 }
-.right-block {
+.One .right-block {
     float: right;
     width: 50%;
     margin-top: 116px;
@@ -104,3 +105,33 @@ img{
      color: #0174B4 !important;
      font-weight: 600;
  }
+ .Two {
+     width: 100%;
+     height: 610px;
+    margin-top: 77px;
+ }
+ .Two .left-block {
+    width: 45%;
+    
+}
+.Two .right-block {
+    float: right;
+    width: 40%;
+    margin-top: 50px;
+  
+}
+.Two .right-block h1 {
+    font-weight: 700;
+    font-size:48px;
+}
+.cb {   
+    clear: both;
+}
+.Two .right-block p {
+    margin-top: 20px;
+}
+.Two .right-block button {
+    margin-top: 20px;
+    background-color: #FF8E4E;
+    color: white;
+}
