@@ -6,29 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="css/bootstrap.min.css" rel="stylesheet"> 
   <script src="https://kit.fontawesome.com/db5a3da844.js" crossorigin="anonymous"></script>
+  <script src="js/jquery.js"></script>
     <link href="css/main.css" rel="stylesheet">
+  
   <title>Schade 24 | Home</title>
 </head>
 <body>
   <header>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-       <div class="logo">
-        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
-       </div> 
-
-        <div id="mySidenav" class="sidenav">
-          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-          <a href="#">Home</a>
-          <a href="#">Blog</a>
-          <a href="#">How it works</a>
-          <a href="#" style="margin-top: 30px;">About us</a>
-          <a href="#">FAQ</a>
-          <a href="#" class="third" style="margin-top: 30px;">Report Damage</a>
-        </div>
-        <span onclick="openNav()">&#9776;</span>
-        </div>  
-      </div>
+  <?php include('navigation.php'); ?>
     <section class="One">
       <div class="container">
         <div class="left-block">
@@ -65,8 +50,8 @@
 </section>
 <section class="Three">
   <div class="container">
-    <h1>How it's working</h1>
-    <div class="card text-white">
+    <h1>How it works</h1>
+    <div class="shadow card text-white">
       <img class="card-img-top " src="images/time.svg" alt="Card image cap">
       <div class="card-body">
         <h2 class="card-title">Within 24 hours</h2>
@@ -77,7 +62,7 @@
       </div>
     </div>
 
-    <div class="card text-white second">
+    <div class="shadow card text-white second">
       <img class="card-img-top " src="images/Group 39.svg" alt="Card image cap">
       <div class="card-body">
         <h2 class="card-title">Within 24 hours</h2>
@@ -88,7 +73,7 @@
       </div>
     </div>
 
-    <div class="card text-white third">
+    <div class="shadow card text-white third">
       <img class="card-img-top " src="images/Group 40.svg" alt="Card image cap">
       <div class="card-body">
         <h2 class="card-title">Within 24 hours</h2>
@@ -100,16 +85,11 @@
     </div>
   </div>
 </section>
-<script src="js/jquery.js"></script>
+<section class="Fourth">
+ 
+</section>
+
 <script src="js/bootstrap.min.js"></script>
-<script>
-  function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-  }
-  
-  function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-  }
-  </script>
+<?php include('footer.php'); ?>
 </body>
 </html>
