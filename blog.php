@@ -39,7 +39,7 @@
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>
           <h4 class="card-title">Where can I find the report code ?</h4>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          <button class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></button>
+          <a href="post.php" class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></a>
 
         </div>
      </div>
@@ -49,7 +49,7 @@
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>
           <h4 class="card-title">Where can I find the report code ?</h4>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          <button class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></button>
+          <a href="post.php" class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></a>
 
         </div>
      </div>
@@ -59,7 +59,7 @@
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>
           <h4 class="card-title">Where can I find the report code ?</h4>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          <button class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></button>
+          <a href="post.php" class="btn btn-lg rounded-pill"> Read more <i class="fas fa-angle-right"></i></a>
 
         </div>
      </div>
