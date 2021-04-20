@@ -21,7 +21,7 @@ header
   height: auto;
   background:#0278B6;
   background-size: cover;
-  padding-bottom: 80px;
+  padding-bottom: 20px;
 
 }
 .container
@@ -63,7 +63,7 @@ header
 }
 .One .right-block {
     margin-top: 116px;
-    margin-left: 7%;
+    
 }
 img{
     display: block;
@@ -199,15 +199,19 @@ img{
 .Three .third {
     background-color: #004467;
 }
-.blog {
-    background-color: #E5E5E5;
+.blog header {
+    padding-bottom:15px;
 }
 .blog .One h1 {
     font-size: 90px;
 
 }
 .blog .left-block {
-    margin-top: 270px;
+    margin-top: 190px;
+}
+.blog .right-block {
+    margin-top: 97px;
+    margin-left: 12%;
 }
 
 .blog .Two .card {
@@ -256,7 +260,7 @@ hr.rounded {
     opacity: 1;
   }
 .post .One {
-    margin-top: 65px;
+    margin-top: 4.7%;
 }
 .post header {
    padding-bottom: 0;
@@ -352,4 +356,32 @@ border-color: #FF8E4E;
     padding-top: 30px;
     padding-bottom: 30px;
     color: black;
+}
+.FAQ header {
+    background-color:#FF4E59;
+    padding-bottom: 0;
+    
+}
+.FAQ .One h1 {
+    font-size: 100px;
+
+}
+.FAQ .left-block {
+    margin-top: 183px;
+}
+.FAQ .right-block {
+    margin-top: 49px;
+    margin-left: 8%;
+}
+.FAQ .Two {
+    background-color: white;
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.FAQ .Two .row {
+    padding-top: 30px;
+}
+.FAQ .Two h4 {
+    padding-bottom: 10px;
 }

@@ -23,7 +23,7 @@
           </h1>
       
           </div>
-          <div class="right-block col-md-6">
+          <div class="right-block col-md-5">
           <img src="images/blog.svg" />
           </div>
       </div>
@@ -70,8 +70,7 @@
 </section>
 
 
-  
-</section>
+
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <?php include('footer.php'); ?>
