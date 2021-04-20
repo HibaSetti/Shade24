@@ -85,8 +85,96 @@
     </div>
   </div>
 </section>
-<section class="Fourth">
- 
+<section class="services">
+  <div class="container">
+      <h1>Our services</h1>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/patient.svg" />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/medical-history.svg" />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/storm.svg" />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/delay.svg" />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/breakdown.svg" />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+      <div class="item row">
+          <div class="left col-md-2">
+              <img src="images/engineer.svg"  />
+          </div>
+         <div class="right col-md-9">
+            <h4>Personal injury</h4>
+            <p>We help you quickly compare the best moped insurance policies on price and quality. 
+              18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
+            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+
+          </div>
+      </div>
+  </div>
+</section>
+<section class="Three comparing">
+    <div class="container">
+        <h1>
+        Comparing pays off
+        </h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
+            fugit vero ratione nemo maxime pariatur esse dolore.</p>
+        
+        <button class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+        
+    </div>
+
 </section>
 
 <script src="js/bootstrap.min.js"></script>

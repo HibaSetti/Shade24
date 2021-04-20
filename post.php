@@ -105,7 +105,7 @@
   
   </div>
 </section>
-<section class="Three">
+<section class="Three comparing">
     <div class="container">
         <h1>
         Comparing pays off
@@ -114,7 +114,7 @@
             Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
             fugit vero ratione nemo maxime pariatur esse dolore.</p>
         
-        <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
+        <button class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
         
     </div>
 

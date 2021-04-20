@@ -12,6 +12,7 @@ html, body {
 }
 h1, h2, h3, h4, h5 {
     font-family: Montserrat-bold ;
+    
 }
 header
 {
@@ -151,9 +152,10 @@ img{
 }
 .Three {
     width: 100%;
-    height: 2000px;
+    height: auto;
   text-align: center;
   background-color: #E5E5E5;
+  padding-bottom: 30px;
 }
 .Three h1 {
     font-size: 48px;
@@ -300,20 +302,40 @@ hr.rounded {
 .block a:hover {
     color:black;
 }
-.post .Three {
+.comparing {
     background-color: #5C29EE;
     color: white;
-    height: 346px;
+    height: auto;
     text-align: left;
+    padding-top: 25px;
+    padding-bottom: 40px;
 }
-.post .Three button {
+.orange-button {
     margin-top: 20px;
     background-color: #FF8E4E;
     border-color: #FF8E4E ;
     color: white;
+    font-weight: 600;
 
 }
-.post .Three button:hover {
+.orange-button:hover {
 background-color: transparent;
 color: #FF8E4E;
+border-color: #FF8E4E;
+}
+.services {
+    height: auto;
+    background-color: white;
+    padding-bottom: 60px;
+}
+.item {
+    padding-top: 70px;
+}
+.services .orange-button {
+    margin-top: 0px;
+}
+.services h1 {
+        margin-top: 50px;
+        font-size:50px;
+        color: black;
 }
