@@ -217,6 +217,11 @@ img{
 .blog .Two .card {
     border-radius: 1.25rem !important;
     margin-bottom: 65px !important;
+    margin: auto;
+}
+.blog .Two .card:hover {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    cursor: pointer;
 }
 .blog .Two .card-body {
     padding-left: 40px;
@@ -296,6 +301,10 @@ hr.rounded {
     margin-right: 22px;
     border-radius: 45px !important;
     text-align: center;
+}
+.block .card:hover {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    cursor: pointer;
 }
 .block a {
     text-decoration: none;

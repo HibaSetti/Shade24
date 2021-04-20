@@ -33,7 +33,7 @@
 
 <section class="Two">
   <div class="container">
-    <div class="shadow card mb-3">
+    <div class="card mb-3 col-md-9">
         <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
         <div class="card-body">
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>
@@ -43,7 +43,7 @@
 
         </div>
      </div>
-     <div class="shadow card mb-3">
+     <div class="card mb-3 col-md-9">
         <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
         <div class="card-body">
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>
@@ -53,7 +53,7 @@
 
         </div>
      </div>
-     <div class="shadow card mb-3">
+     <div class="card mb-3 col-md-9">
         <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
         <div class="card-body">
         <p class="card-text"><small class="text-muted">18/04/2021</small></p>

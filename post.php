@@ -69,7 +69,7 @@
     <div class="block">
         <h2>Rcent blogs</h2>
          <div class="row card-group">
-                <div class="shadow card col-md-3">
+                <div class="card col-md-3">
                     <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
                     <div class="card-body">
                          <p class="card-text"><small class="text-muted">18/04/2021</small></p>
@@ -79,7 +79,7 @@
 
                     </div>
                 </div>
-                <div class="shadow card col-md-3">
+                <div class="card col-md-3">
                 <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
                 <div class="card-body">
                      <p class="card-text"><small class="text-muted">18/04/2021</small></p>
@@ -89,7 +89,7 @@
 
                 </div>
             </div>
-            <div class="shadow card col-md-3">
+            <div class="card col-md-3">
                 <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">
                 <div class="card-body">
                      <p class="card-text"><small class="text-muted">18/04/2021</small></p>
