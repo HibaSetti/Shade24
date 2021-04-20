@@ -9,6 +9,7 @@
 html, body {
     font-family: Montserrat ;
     scroll-behavior: smooth;
+    background-color: #E5E5E5;
 }
 h1, h2, h3, h4, h5 {
     font-family: Montserrat-bold ;
@@ -45,12 +46,12 @@ header
 .One .left-block h1 {
     font-size: 48px;
 }
-.One .left-block button {
+.One .left-block a {
     color: #FF8E4E;
     margin-top: 20px;
     font-weight: 600;
 }
-.One .left-block button:hover {
+.One .left-block a:hover {
         background-color: transparent;
         color: #FF8E4E;
         border-color: #FF8E4E;
@@ -62,6 +63,7 @@ header
 }
 .One .right-block {
     margin-top: 116px;
+    margin-left: 7%;
 }
 img{
     display: block;
@@ -120,8 +122,9 @@ img{
  .Two {
      width: 100%;
      height: auto;
-    margin-top: 77px;
-    margin-bottom: 77px;
+    padding-top: 77px;
+    padding-bottom: 77px;
+    background-color: #fff;
  }
 
 .Two .right-block {
@@ -143,12 +146,12 @@ img{
 .Two .right-block p {
     margin-top: 20px;
 }
-.Two .right-block button {
+.Two .right-block a {
     margin-top: 20px;
     background-color: #FF8E4E;
     color: white;
 }
-.Two .right-block button:hover {
+.Two .right-block a:hover {
     background-color: transparent;
     border-color: #FF8E4E;
     color: #FF8E4E;
@@ -204,7 +207,6 @@ img{
 
 }
 .blog .left-block {
-    margin-left: 30px;
     margin-top: 270px;
 }
 
@@ -257,7 +259,7 @@ hr.rounded {
     margin-top: 65px;
 }
 .post header {
-    height: 400px;
+   padding-bottom: 0;
 }
 .post .Two h4{
     color: #003959;
@@ -338,7 +340,16 @@ border-color: #FF8E4E;
     margin-top: 0px;
 }
 .services h1 {
-        margin-top: 50px;
+        padding-top: 50px;
         font-size:50px;
         color: black;
+}
+.about {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    margin-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
 }

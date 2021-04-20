@@ -22,7 +22,7 @@
           </h1>
           <p>Insured on the road within 5 minutes</p>
           
-          <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
+          <a href="#" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
           </div>
           <div class="right-block col-md-7">
           <img src="images/home1.svg" />
@@ -44,7 +44,7 @@
          Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
         fugit vero ratione nemo maxime pariatur esse dolore.</p>
       
-      <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
+      <a href="#" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
       </div>
      
   </div>
@@ -95,7 +95,7 @@
   
   </div>
 </section>
-<section class="services">
+<section class="shadow services">
   <div class="container">
       <h1>Our services</h1>
       <div class="item row">
@@ -106,7 +106,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -118,7 +118,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -130,7 +130,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -142,7 +142,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -154,7 +154,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -166,11 +166,26 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <button class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
   </div>
+</section>
+<section class="about">
+  <div class="container">
+        <h1>About US</h1>
+        <p>E-Polis is a specialist in the field of moped and scooter insurance. For more than 25 years we have been happy to ensure 
+          that you can compare your scooter insurance in an easy and fast way. We have created a unique platform where you can easily
+          arrange everything yourself, for example immediately insuring your scooter, changing your policy or reporting damage. Our digital assistant Anna is
+          at your service day and night. Say hi to Annakeyboard_arrow_right
+        </p> 
+      <h4>What is E-polis?</h4>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Illo perferendis voluptates labore a velit, veniam mollitia necessitatibus aliquam deleniti error molestias quibusdam adipisci maiores laborum accusantium ullam excepturi, sapiente tempore!</p>
+        <a href="#" class="btn btn-light btn-lg rounded-pill orange-button"> Read more <i class="fas fa-angle-right"></i></a>
+
+      </div>
 </section>
 <section class="Three comparing">
     <div class="container">
@@ -181,7 +196,7 @@
             Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
             fugit vero ratione nemo maxime pariatur esse dolore.</p>
         
-        <button class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></button>
+        <a href="#" class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
         
     </div>
 

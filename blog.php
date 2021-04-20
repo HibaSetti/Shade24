@@ -16,14 +16,14 @@
   <?php include('navigation.php'); ?>
 
     <section class="One">
-      <div class="container">
-        <div class="left-block">
+      <div class="container row">
+        <div class="left-block col-md-5">
           <h1>
             Blog
           </h1>
       
           </div>
-          <div class="right-block">
+          <div class="right-block col-md-6">
           <img src="images/blog.svg" />
           </div>
       </div>
