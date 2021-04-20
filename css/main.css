@@ -17,9 +17,10 @@ h1, h2, h3, h4, h5 {
 header
 {
   width:100%;
-  height: 610px;
+  height: auto;
   background:#0278B6;
   background-size: cover;
+  padding-bottom: 80px;
 
 }
 .container
@@ -37,13 +38,11 @@ header
 
 
 .One .left-block {
-    float: left;
-    width: 46%;
+   
     color:white;
     margin-top: 195px;
 }
 .One .left-block h1 {
-   
     font-size: 48px;
 }
 .One .left-block button {
@@ -51,13 +50,17 @@ header
     margin-top: 20px;
     font-weight: 600;
 }
+.One .left-block button:hover {
+        background-color: transparent;
+        color: #FF8E4E;
+        border-color: #FF8E4E;
+        
+}
 .One .left-block p {
     font-size: 18px;
     margin-top: 20px;
 }
 .One .right-block {
-    float: right;
-    width: 50%;
     margin-top: 116px;
 }
 img{
@@ -120,15 +123,15 @@ img{
     margin-top: 77px;
     margin-bottom: 77px;
  }
- .Two .left-block {
-    width: 45%;
-    
-}
+
 .Two .right-block {
-    float: right;
-    width: 40%;
+  
     margin-top: 50px;
   
+}
+.Two .left-block {
+    margin-right: 80px;
+    padding-left: 0px;
 }
 .Two .right-block h1 {
    
@@ -163,16 +166,16 @@ img{
     padding-bottom: 29px;
 }
 .Three .card {
-    margin: auto;
     background-color: #027AB9;
-    width: 537px;
-    height: 560px;
+    padding-bottom: 25px;
     border-radius: 45px;
     margin-bottom: 40px;
 }
+.Three .col-md-7 {
+    margin: auto;
+}
 .Three img {
-    width: 319px;
-    height: 300px;
+    width: 50%;
     margin: auto;
     padding-top: 32px;
 }

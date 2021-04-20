@@ -15,8 +15,8 @@
   <header>
   <?php include('navigation.php'); ?>
     <section class="One">
-      <div class="container">
-        <div class="left-block">
+      <div class="container row">
+        <div class="left-block col-md-5">
           <h1>
             Your damage, our concern
           </h1>
@@ -24,7 +24,7 @@
           
           <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
           </div>
-          <div class="right-block">
+          <div class="right-block col-md-7">
           <img src="images/home1.svg" />
           </div>
       </div>
@@ -32,8 +32,11 @@
 </header>
 <div class="cb"></div>
 <section class="Two">
-  <div class="container">
-    <div class="right-block">
+  <div class="container row">
+      <div class="left-block col-md-6">
+        <img src="images/home2.svg" />
+      </div>
+    <div class="right-block col-md-5">
       <h1>
         Easy to do yourself
       </h1>
@@ -43,46 +46,53 @@
       
       <button class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></button>
       </div>
-      <div class="left-block">
-      <img src="images/home2.svg" />
-      </div>
+     
   </div>
 </section>
 <section class="Three">
-  <div class="container">
+  <div class="container row">
     <h1>How it works</h1>
-    <div class="shadow card text-white">
-      <img class="card-img-top " src="images/time.svg" alt="Card image cap">
-      <div class="card-body">
-        <h2 class="card-title">Within 24 hours</h2>
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
-         fugit vero ratione nemo maxime pariatur esse dolore.</p>
-        
+    <div class="row">
+      <div class="col-md-7">
+          <div class="shadow card text-white">
+              <img class="card-img-top " src="images/time.svg" alt="Card image cap">
+              <div class="card-body">
+                <h2 class="card-title">Within 24 hours</h2>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
+                fugit vero ratione nemo maxime pariatur esse dolore.</p>
+              </div>
+           </div>
+       </div>
+    </div>
+   <div class="row">
+     <div class="col-md-7">
+        <div class="shadow card text-white second">
+          <img class="card-img-top " src="images/Group 39.svg" alt="Card image cap">
+            <div class="card-body">
+                <h2 class="card-title">Within 24 hours</h2>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
+                  fugit vero ratione nemo maxime pariatur esse dolore.</p>  
+            </div>
+        </div>
+     </div>
+   </div>
+    <div class="row">
+      <div class="col-md-7">
+          <div class="shadow card text-white third">
+              <img class="card-img-top " src="images/Group 40.svg" alt="Card image cap">
+              <div class="card-body">
+                <h2 class="card-title">Within 24 hours</h2>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
+                fugit vero ratione nemo maxime pariatur esse dolore.</p> 
+              </div>
+            </div>
       </div>
     </div>
 
-    <div class="shadow card text-white second">
-      <img class="card-img-top " src="images/Group 39.svg" alt="Card image cap">
-      <div class="card-body">
-        <h2 class="card-title">Within 24 hours</h2>
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
-         fugit vero ratione nemo maxime pariatur esse dolore.</p>
-        
-      </div>
-    </div>
-
-    <div class="shadow card text-white third">
-      <img class="card-img-top " src="images/Group 40.svg" alt="Card image cap">
-      <div class="card-body">
-        <h2 class="card-title">Within 24 hours</h2>
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
-         fugit vero ratione nemo maxime pariatur esse dolore.</p>
-        
-      </div>
-    </div>
+  
   </div>
 </section>
 <section class="services">
