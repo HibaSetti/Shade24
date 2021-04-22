@@ -360,9 +360,12 @@ border-color: #FF8E4E;
     height: auto;
     background-color: #fff;
     margin-top: 60px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 55px;
+    padding-bottom: 55px;
     color: black;
+}
+.about p {
+    font-weight: 400;
 }
 .FAQ header {
     background-color:#FF4E59;
@@ -376,7 +379,7 @@ border-color: #FF8E4E;
 .FAQ .left-block {
     margin-top: 183px;
 }
-.FAQ .right-block {
+.FAQ .right-block, .aboutUs .right-block {
     margin-top: 49px;
     margin-left: 8%;
 }
@@ -468,6 +471,79 @@ border-color: #FF8E4E;
     position: absolute;
     right: 0;
     margin-bottom: 9%;
+}
+
+.aboutUs header {
+    background-color:#7C4EFF;
+    padding-bottom: 0;
+    
+}
+.aboutUs .left-block {
+    margin-top: 210px;
+}
+.aboutUs .left-block h1 {
+    font-size: 60px;
+}
+
+.aboutUs .purple-button {
+    background-color: #7C4EFF;
+    color: white;
+    border-color: #7C4EFF;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.aboutUs .purple-button:hover {
+    background-color: transparent;
+    border-color: #7C4EFF;
+    color: #7C4EFF;
+}
+.aboutUs .services {
+    margin-bottom: 40px;
+}
+.aboutUs .testimony {
+    background-image: url('../images/star.png');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.aboutUs .carousel-control-prev i, .carousel-control-next i {
+    color: #7C4EFF;
+}
+.award {
+    background-color: #fff;
+    border-radius: 45px;
+    padding-top: 77px;
+    margin: auto;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.award p {
+    font-weight: 400;
+}
+.award span {
+    color: #FFC100;
+    font-weight: bold;
+}
+.award .btn {
+    background-color:#FFC100;
+    margin-top: 2.5rem;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+.award .btn:hover {
+    background-color: transparent;
+    border-color: #FFC100;
+    color: #FFC100;
+}
+.award h1 {
+    font-size: 2.5rem;
+}
+.awards-section {
+    margin-bottom: 50px;
+}
+.awards-section .stars {
+    
 }
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {

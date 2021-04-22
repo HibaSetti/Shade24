@@ -226,7 +226,7 @@
       <h4>What is E-polis?</h4>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Illo perferendis voluptates labore a velit, veniam mollitia necessitatibus aliquam deleniti error molestias quibusdam adipisci maiores laborum accusantium ullam excepturi, sapiente tempore!</p>
-        <a href="#" class="btn btn-light btn-lg rounded-pill orange-button"> Read more <i class="fas fa-angle-right"></i></a>
+        <a href="about.php" class="btn btn-light btn-lg rounded-pill orange-button"> Read more <i class="fas fa-angle-right"></i></a>
 
       </div>
 </section>
