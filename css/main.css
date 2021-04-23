@@ -511,7 +511,7 @@ border-color: #FF8E4E;
 .award {
     background-color: #fff;
     border-radius: 45px;
-    padding-top: 77px;
+    padding-top: 32px;
     margin: auto;
     text-align: center;
     padding-left: 50px;
@@ -519,6 +519,7 @@ border-color: #FF8E4E;
 }
 .award p {
     font-weight: 400;
+    line-height: 30px;
 }
 .award span {
     color: #FFC100;
@@ -530,6 +531,9 @@ border-color: #FF8E4E;
     color: white;
     font-weight: 600;
     font-size: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
 }
 .award .btn:hover {
     background-color: transparent;
@@ -543,7 +547,20 @@ border-color: #FF8E4E;
     margin-bottom: 50px;
 }
 .awards-section .stars {
-    
+    background-image: url("../images/yellow-stars.png");
+    height: 153px;
+    background-repeat: no-repeat;
+    background-position-x: 326px;
+    background-position-y: -8px;
+    padding-top: 38px;
+}
+.button-stars {
+    background-image: url("../images/yellow-stars.png"),url("../images/yellow-stars.png");
+    height: 153px;
+    background-repeat: no-repeat;
+    background-position-x: 326px,190px;
+    background-position-y: -8px;
+    padding-top: 21px;
 }
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {
@@ -557,5 +574,11 @@ border-color: #FF8E4E;
    }
    .One .left-block {
        margin-top: 110px;
+   }
+   .awards-section .stars {
+    background-position-x: 8px;
+   }
+   .button-stars {
+    background-position-x: 49px,37px;
    }
   }
