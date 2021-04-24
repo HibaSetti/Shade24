@@ -47,14 +47,21 @@ header
     font-size: 48px;
 }
 .One .left-block a {
-    color: #FF8E4E;
+    color: #fff;
     margin-top: 20px;
     font-weight: 600;
+    background-color:#FF8E4E;
+    padding-top:12px !important;
+    padding-bottom:12px !important;
+    padding-left:30px !important;
+    padding-right:30px !important;
+    border-color:#FF8E4E;
 }
 .One .left-block a:hover {
-        background-color: transparent;
-        color: #FF8E4E;
-        border-color: #FF8E4E;
+    background-color: transparent;
+    color: #FF8E4E;
+    border-color: #FFFFFF;
+    background-color:#FFFFFF;
         
 }
 .One .left-block p {
@@ -146,13 +153,19 @@ img{
 }
 .Two .right-block a {
     margin-top: 20px;
-    background-color: #FF8E4E;
+    background-color:#FF8E4E;
+    padding-top:12px !important;
+    padding-bottom:12px !important;
+    padding-left:30px !important;
+    padding-right:30px !important;
+    border-color:#FF8E4E;
     color: white;
+    font-weight: 600;
 }
 .Two .right-block a:hover {
-    background-color: transparent;
-    border-color: #FF8E4E;
-    color: #FF8E4E;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: #fff;
 }
 .Three {
     width: 100%;
