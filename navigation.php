@@ -13,7 +13,7 @@
         <a href="faq.php">FAQ</a>
         <a href="#" class="third" style="margin-top: 30px;">Report Damage</a>
       </div>
-      <span onclick="openNav()">&#9776;</span>
+      <span onclick="openNav()" id="burger">&#9776;</span>
       </div>  
     </div>
    

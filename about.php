@@ -166,8 +166,8 @@
 			<div class="button-stars">
         <a href="#" class="btn btn-light btn-lg rounded-pill"> Award Details</a>
       </div>
-			<div>
-				<img src="images/awards2.svg" />
+			<div class="col-md-9 awards-img">
+				<img src="images/awards.svg" />
 			</div>
 
 		</div>

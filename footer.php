@@ -70,9 +70,11 @@
 <script>
         function openNav() {
           document.getElementById("mySidenav").style.width = "250px";
+          $("#burger").hide();
         }
         
         function closeNav() {
           document.getElementById("mySidenav").style.width = "0";
+          $("#burger").show();
         }
         </script>
