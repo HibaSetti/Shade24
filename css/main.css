@@ -581,6 +581,61 @@ border-color: #FF8E4E;
     padding-top: 50px;
     padding-bottom: 50px;
 }
+.award-page header {
+    background-color: #FFC100;
+    padding-bottom: 0;
+}
+.award-page .right-block {
+    margin-top: 3px;
+    margin-left: 80px;
+}
+.award-page .left-block h1 {
+    font-size: 3.5rem !important;
+}
+.award-page .left-block {
+    margin-top: 15%;
+    background-image: url("../images/white-stars.svg");
+    background-repeat: no-repeat;
+    background-position-x: 179px;
+    background-position-y: 17px;
+    padding-top: 59px;
+}
+.award-page .Two {
+    background-color: #fff;
+    line-height: 40px;
+    font-size: 20px;
+    color: black;
+}
+.award-page .bold-text {
+    font-family: Montserrat-bold ;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+.items {
+    line-height: 26px;
+    padding-bottom: 55px;
+}
+.items p {
+    width: 60%;
+    display: inline-block;
+}
+.items img {
+    display: inline-block;
+    width: 2%;
+}
+.yellow-bloc {
+    background-color: #FFC100;
+    border-radius: 45px;
+    padding: 35px 35px 35px 35px;
+}
+.element {
+    border-radius: 15px;
+    background-color: white;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {
     .services {

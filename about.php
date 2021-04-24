@@ -154,7 +154,7 @@
 	<div class="container row">
 		<div class="col-md-11 award shadow">
 			<div class="stars">
-        <h1>Award <span>2019</span></h1>
+        <h1>Award <span>2020</span></h1>
       </div>
         
 			<p>
@@ -164,7 +164,7 @@
 				but we will also assess all involved personal injury agencies according to various criteria.
 			</p>
 			<div class="button-stars">
-        <a href="#" class="btn btn-light btn-lg rounded-pill"> Award Details</a>
+        <a href="award.php" class="btn btn-light btn-lg rounded-pill"> Award Details</a>
       </div>
 			<div class="col-md-9 awards-img">
 				<img src="images/awards.svg" />
