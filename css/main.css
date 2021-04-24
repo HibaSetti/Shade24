@@ -505,7 +505,7 @@ border-color: #FF8E4E;
     background-position: left;
     background-repeat: no-repeat;
 }
-.aboutUs .carousel-control-prev i, .carousel-control-next i {
+.aboutUs .carousel-control-prev i, .aboutUs .carousel-control-next i {
     color: #7C4EFF;
 }
 .award {
