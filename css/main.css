@@ -1,18 +1,18 @@
 @font-face {
-    font-family:Montserrat-bold ;
-    src: url(../fonts/Montserrat-Bold.ttf);
+    font-family:Catamaran-bold ;
+    src: url(../fonts/Catamaran-Bold.ttf);
   }
   @font-face {
-    font-family:Montserrat ;
-    src: url(../fonts/Montserrat-Regular.ttf);
+    font-family:Catamaran ;
+    src: url(../fonts/Catamaran-Regular.ttf);
   }
 html, body {
-    font-family: Montserrat ;
+    font-family: Catamaran ;
     scroll-behavior: smooth;
     background-color: #E5E5E5;
 }
 h1, h2, h3, h4, h5 {
-    font-family: Montserrat-bold ;
+    font-family: Catamaran-bold ;
     
 }
 header
@@ -49,7 +49,7 @@ header
     margin-top: 195px;
 }
 .One .left-block h1 {
-    font-size: 48px;
+    font-size: 52px;
 }
 .One .left-block a {
     color: #fff;
@@ -63,11 +63,10 @@ header
     border-color:#FF8E4E;
 }
 .One .left-block a:hover {
-    background-color: transparent;
-    color: #FF8E4E;
-    border-color: #FFFFFF;
-    background-color:#FFFFFF;
-        
+        background-color: transparent;
+        color: #FF8E4E;
+        border-color: #FFFFFF;
+        background-color:#FFFFFF;
 }
 .One .left-block p {
     font-size: 18px;
@@ -128,8 +127,19 @@ img{
       cursor: pointer;
   }
  .sidenav .third {
-     color: #0174B4 !important;
+     color: #0d6efd !important;
      font-weight: 600;
+ }
+ .Sidenav .inloggen{
+     color: #FF8E4E !important;
+     font-weight: 600;
+ }
+  .sidenav .third:hover {
+     color: #FF8E4E;
+ }
+ .Sidenav .inloggen{
+     color: #0d6efd !important;
+   
  }
  .Two {
      width: 100%;
@@ -150,7 +160,7 @@ img{
 }
 .Two .right-block h1 {
    
-    font-size:48px;
+    font-size:52px;
 }
 
 .Two .right-block p {
@@ -180,7 +190,7 @@ img{
   padding-bottom: 30px;
 }
 .Three h1 {
-    font-size: 48px;
+    font-size: 54px;
     padding-top: 29px;
     padding-bottom: 29px;
 }
@@ -197,6 +207,7 @@ img{
     width: 50%;
     margin: auto;
     padding-top: 32px;
+    
 }
 .Three h2 {
     margin-bottom: 1.5rem;
@@ -293,7 +304,7 @@ hr.rounded {
     color: #003959;
 }
 .post .block h5{
-    font-family: Montserrat;
+    font-family: Catamaran;
     font-weight: 600;
 }
 .block {
@@ -337,7 +348,7 @@ hr.rounded {
     color:black;
 }
 .comparing {
-    background-color: #5C29EE;
+    background-color: #FF8E4E;
     color: white;
     height: auto;
     text-align: left;
@@ -353,9 +364,9 @@ hr.rounded {
 
 }
 .orange-button:hover {
-background-color: transparent;
+background-color: #fff;
 color: #FF8E4E;
-border-color: #FF8E4E;
+border-color: #fff;
 }
 .services {
     height: auto;
@@ -372,6 +383,10 @@ border-color: #FF8E4E;
         padding-top: 50px;
         font-size:50px;
         color: black;
+}
+.services h4 {
+       
+        color: #FF8E4E;
 }
 .about {
     width: 100%;
