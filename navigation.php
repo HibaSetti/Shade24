@@ -8,7 +8,7 @@
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="index.php">Home</a>
         <a href="blog.php">Blog</a>
-        <a href="#">How it works</a>
+        <a href="howItWorks.php">How it works</a>
         <a href="about.php" style="margin-top: 30px;">About us</a>
         <a href="faq.php">FAQ</a>
         <a href="#" class="third" style="margin-top: 30px;">Report Damage</a>

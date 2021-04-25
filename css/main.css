@@ -676,6 +676,57 @@ border-color: #fff;
 .left-e {
     margin-left: 30px;
 }
+.works header {
+    background-color: #FF8E4E;
+    padding-bottom: 60px;
+}
+.works .One .left-block h1 {
+    font-weight: bold;
+}
+.works .One .left-block {
+    margin-top: 114px;
+}
+.works .One .left-block a {
+    background-color: #fff;
+    color:#FF8E4E;
+}
+.works .One .left-block a:hover {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+.works .Two h1 {
+    font-weight: bold;
+    color: black;
+    font-size:75px;
+}
+.works .Two p {
+    font-size: 20px;
+}
+.works .Two {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.works .Three .card {
+    background-color: #FF8E4E;
+}
+.works .Three .second {
+    background-color: #FE772B;
+}
+.works .Three .third {
+    background-color: #FD6109;
+}
+.works .testimony {
+    background-image: url('../images/orange-star.png');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.works .carousel-control-prev i, .works .carousel-control-next i {
+    color: #FFB573;
+}
+.works .testimony {
+    margin-top: 50px;
+}
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {
     .services {
