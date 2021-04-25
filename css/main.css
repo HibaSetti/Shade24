@@ -29,6 +29,11 @@ header
  width:80%;
  margin:0 auto;
 }
+.containerNavbar
+{   
+ width:90%;
+ margin:0 auto;
+}
 .logo
 {
 	display: block;
@@ -605,6 +610,7 @@ border-color: #FF8E4E;
     line-height: 40px;
     font-size: 20px;
     color: black;
+    padding-bottom: 150px;
 }
 .award-page .bold-text {
     font-family: Montserrat-bold ;
@@ -629,12 +635,23 @@ border-color: #FF8E4E;
     padding: 35px 35px 35px 35px;
 }
 .element {
-    border-radius: 15px;
+    border-radius: 30px;
     background-color: white;
     margin-bottom: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 55px;
+    color:#0178B6;
     
+}
+.element-right {
+    text-align: center;
+    padding-left: 0;
+}
+.head {
+    color: #FFC100;
+    font-family: Montserrat-bold;
+
 }
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {
@@ -657,5 +674,19 @@ border-color: #FF8E4E;
    }
    .award h1 {
         font-size: 2.5rem;
+   }
+   .award-page .right-block {
+       margin-left: 0;
+   }
+   .items img {
+       width: 4%;
+       vertical-align: top;
+   }
+   .items p {
+       width: 86%;
+   }
+   .element {
+       padding-left: 0;
+       text-align: center;
    }
   }

@@ -1,5 +1,5 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
+    <div class="container containerNavbar">
      <div class="logo">
       <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo"></a>
      </div> 
