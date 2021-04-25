@@ -533,6 +533,9 @@ border-color: #fff;
 .aboutUs .services {
     margin-bottom: 40px;
 }
+.aboutUs .services h4 {
+    color: #7C4EFF;
+}
 .aboutUs .testimony {
     background-image: url('../images/star.png');
     background-position: left;
@@ -662,11 +665,16 @@ border-color: #fff;
 .element-right {
     text-align: center;
     padding-left: 0;
+    margin-left: 30px;
+    
 }
 .head {
     color: #FFC100;
     font-family: Montserrat-bold;
 
+}
+.left-e {
+    margin-left: 30px;
 }
 /******************** RESPONSIVITY ************************/
 @media only screen and (max-width: 600px) {
@@ -703,5 +711,8 @@ border-color: #fff;
    .element {
        padding-left: 0;
        text-align: center;
+   }
+   .left-e {
+       margin-left: 13px;
    }
   }

@@ -110,93 +110,93 @@
                 <div class="row">
                     <div class="col-md-12 yellow-bloc shadow">
                     <div class="row">
-                                <div class="col-md-8 col-5 element  head shadow">
+                                <div class="col-md-8 col-5 element left-e  head shadow">
                                     Insurer
                                 </div>
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right head shadow">
+                                <div class="col-md-3 col-5 element element-right head shadow">
                                     Total
                                 </div>
                        </div> 
                         <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div>
                         <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div>
                         <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div> <div class="row">
-                                <div class="col-md-8 col-5 element shadow">
+                                <div class="col-md-8 col-5 element left-e shadow">
                                     Insurer
                                 </div>
                                
-                                <div class="col-md-3 offset-md-1 col-5 offset-1 element element-right shadow">
+                                <div class="col-md-3 col-5 element element-right shadow">
                                     Total
                                 </div>
                         </div>

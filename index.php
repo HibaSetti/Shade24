@@ -7,8 +7,8 @@
   <link href="css/bootstrap.min.css" rel="stylesheet"> 
   <script src="https://kit.fontawesome.com/db5a3da844.js" crossorigin="anonymous"></script>
   <script src="js/jquery.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.js"></script>
   <script src="js/bootstrap.min.js"></script>
     <link href="css/main.css" rel="stylesheet">
   
