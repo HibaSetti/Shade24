@@ -204,7 +204,10 @@ img{
     border-radius: 45px;
     margin-bottom: 40px;
 }
+.Three .col-md-7 {
 
+    margin: auto;
+}
 .Three img {
     width: 50%;
     margin: auto;
