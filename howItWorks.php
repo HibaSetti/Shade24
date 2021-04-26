@@ -25,7 +25,7 @@
           </h1>
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere dolor ipsam pariatur ab alias expedita totam quia possimus sunt, odio, doloribus error. Ab doloremque neque asperiores labore culpa laboriosam molestiae!</p>
           
-          <a href="#" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
+          <a href="report.php" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
           </div>
          
       </div>
@@ -45,7 +45,7 @@
          Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
         fugit vero ratione nemo maxime pariatur esse dolore.</p>
       
-      <a href="#" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
+      <a href="report.php" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
       </div>
      
   </div>
@@ -108,7 +108,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -120,7 +120,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -132,7 +132,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -144,7 +144,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -156,7 +156,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -168,7 +168,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="#" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -224,7 +224,7 @@
             Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
             fugit vero ratione nemo maxime pariatur esse dolore.</p>
         
-        <a href="#" class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+        <a href="report.php" class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
         
     </div>
 

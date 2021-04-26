@@ -149,7 +149,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -161,7 +161,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -173,7 +173,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -185,7 +185,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -197,7 +197,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>
@@ -209,7 +209,7 @@
             <h4>Personal injury</h4>
             <p>We help you quickly compare the best moped insurance policies on price and quality. 
               18pxWe are 100% independent in this! 18pxYou will be on your way insured within 5 minutes.</p>
-            <a href="report.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+            <a href="serviceDetail.php" class="btn btn-light rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
 
           </div>
       </div>

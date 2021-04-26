@@ -73,7 +73,7 @@ header
     margin-top: 20px;
 }
 .One .right-block {
-    margin-top: 116px;
+    margin-top: 10%;
     
 }
 img{
@@ -366,7 +366,7 @@ hr.rounded {
 .orange-button:hover {
 background-color: #fff;
 color: #FF8E4E;
-border-color: #fff;
+border-color: #FF8E4E;
 }
 .services {
     height: auto;
@@ -385,8 +385,8 @@ border-color: #fff;
         color: black;
 }
 .services h4 {
-       
-        color: #FF8E4E;
+    color: #FF8E4E;
+    font-weight: bold;
 }
 .about {
     width: 100%;
@@ -759,8 +759,32 @@ border-color: #fff;
 .report .testimony {
     margin-top: 50px;
 }
+.service-detail .Two h5 {
+    color: black;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.service-detail .Two span {
+    color: #0278B6;
+   
+}
+.service-detail .Two {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+}
+.service-detail p {
+    font-size: 1.25rem;
+}
+.service-detail .services {
+    margin-bottom: 60px;
+}
+.service-detail .right-block {
+    margin-top: 10%;
+    margin-left: 13%;
+}
 /******************** RESPONSIVITY ************************/
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
     .services {
         text-align: center;
     }
@@ -798,4 +822,8 @@ border-color: #fff;
    .left-e {
        margin-left: 13px;
    }
+   .service-detail .right-block {
+       margin-left: 0;
+   }
+  
   }

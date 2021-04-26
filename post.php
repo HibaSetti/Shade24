@@ -114,7 +114,7 @@
             Perspiciatis suscipit quasi inventore sunt modi eaque explicabo, 
             fugit vero ratione nemo maxime pariatur esse dolore.</p>
         
-        <a href="#" class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
+        <a href="report.php" class="btn btn-light btn-lg rounded-pill orange-button"> Report Damage <i class="fas fa-angle-right"></i></a>
         
     </div>
 
