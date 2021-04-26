@@ -99,6 +99,7 @@ img{
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+   
   }
 
   .sidenav a {
@@ -189,6 +190,9 @@ img{
   background-color: #E5E5E5;
   padding-bottom: 30px;
 }
+.Three .row {
+    margin: auto;
+}
 .Three h1 {
     font-size: 54px;
     padding-top: 29px;
@@ -200,9 +204,7 @@ img{
     border-radius: 45px;
     margin-bottom: 40px;
 }
-.Three .col-md-7 {
-    margin: auto;
-}
+
 .Three img {
     width: 50%;
     margin: auto;
@@ -797,7 +799,7 @@ border-color: #FF8E4E;
        margin-top: 110px;
    }
    .awards-section .stars {
-    background-position-x: 8px;
+    background-position-x: -20px;
    }
    .button-stars {
     background-position-x:  30px,-66px;
@@ -825,5 +827,42 @@ border-color: #FF8E4E;
    .service-detail .right-block {
        margin-left: 0;
    }
-  
+   .element-right {
+       margin-left: 15px;
+   }
+   .award-page .left-block {
+    background-position-x: -42px;
+    background-position-y: 31px;
+   }
+   .quote {
+       width: 20%;
+   }
+   .container {
+       width: 95%;
+   }
+  .award .btn {
+      font-size:15px;
+  }
+  .navbar-brand img {
+      width: 80%;
+  }
+  .report .One h1 {
+      font-size: 60px;
+  }
+  .Three .row > * {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .social-media {
+      width: 50%;
+  }
+  .icons a {
+      width: 25%;
+  }
+  .block .card {
+      margin-top: 15px;
+  }
+  .orange-button {
+      font-size:1rem;
+  }
   }
