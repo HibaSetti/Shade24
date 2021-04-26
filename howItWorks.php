@@ -12,7 +12,7 @@
   <script src="js/bootstrap.min.js"></script>
     <link href="css/main.css" rel="stylesheet">
   
-  <title>Schade 24 | Home</title>
+  <title>Schade 24 | How it works</title>
 </head>
 <body class="works">
   <header>

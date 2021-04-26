@@ -67,7 +67,7 @@
         
         </div>   
     <div class="block">
-        <h2>Rcent blogs</h2>
+        <h2>Recent blogs</h2>
          <div class="row card-group">
                 <div class="card col-md-3">
                     <img class="card-img-top" src="images/blog-card.svg" alt="Card image cap">

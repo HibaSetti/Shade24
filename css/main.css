@@ -151,7 +151,7 @@ img{
 
 .Two .right-block {
   
-    margin-top: 50px;
+    margin-top: 7%;
   
 }
 .Two .left-block {
@@ -292,7 +292,7 @@ hr.rounded {
     opacity: 1;
   }
 .post .One {
-    margin-top: 4.7%;
+    margin-top: 3.7%;
 }
 .post header {
    padding-bottom: 0;
@@ -409,10 +409,10 @@ border-color: #fff;
     font-size: 100px;
 
 }
-.FAQ .left-block {
-    margin-top: 183px;
+.FAQ .left-block, .report .left-block {
+    margin-top: 20%;
 }
-.FAQ .right-block, .aboutUs .right-block {
+.FAQ .right-block, .aboutUs .right-block, .report .right-block {
     margin-top: 49px;
     margin-left: 8%;
 }
@@ -603,6 +603,7 @@ border-color: #fff;
 .awards-img {
     padding-top: 50px;
     padding-bottom: 50px;
+    margin: auto;
 }
 .award-page header {
     background-color: #FFC100;
@@ -725,6 +726,37 @@ border-color: #fff;
     color: #FFB573;
 }
 .works .testimony {
+    margin-top: 50px;
+}
+.report header {
+    background-color: #11CDA0;
+    padding-bottom: 0;
+}
+.report .One h1 {
+    font-size: 86px;
+    font-weight: bold;
+}
+.report .right-block {
+    margin-left: 0;
+}
+.report .Three .card {
+    background-color: #11CDA0;
+}
+.report .Three .second {
+    background-color: #0DAA84;
+}
+.report .Three .third {
+    background-color: #087B5F;
+}
+.report .testimony {
+    background-image: url('../images/green-star.png');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.report .carousel-control-prev i, .report .carousel-control-next i {
+    color: #11CDA0;
+}
+.report .testimony {
     margin-top: 50px;
 }
 /******************** RESPONSIVITY ************************/

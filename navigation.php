@@ -11,7 +11,7 @@
         <a href="howItWorks.php">How it works</a>
         <a href="about.php" style="margin-top: 30px;">About us</a>
         <a href="faq.php">FAQ</a>
-        <a href="#" class="third" style="margin-top: 30px;">Report Damage</a>
+        <a href="report.php" class="third" style="margin-top: 30px;">Report Damage</a>
       </div>
       <span onclick="openNav()" id="burger">&#9776;</span>
       </div>  
