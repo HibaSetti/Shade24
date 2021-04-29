@@ -19,7 +19,7 @@
   <?php include('navigation.php'); ?>
     <section class="One">
       <div class="container row">
-        <div class="left-block col-md-5">
+        <div class="left-block col-md-7">
           <h1>
             Personal injury
           </h1>

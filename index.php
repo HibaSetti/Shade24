@@ -19,15 +19,16 @@
   <?php include('navigation.php'); ?>
     <section class="One">
       <div class="container row">
-        <div class="left-block col-md-5">
+        <div class="left-block col-md-7">
           <h1>
-            Your damage, our concern
+          Jouw schade, onze zorg 
           </h1>
-          <p>Insured on the road within 5 minutes</p>
+          <p>Schade verhalen door Schade24 is voor jou geheel kosteloos.
+           Onze getalenteerde juristen zetten zich in om de vergoeding waar je recht op hebt te verhalen.</p>
           
           <a href="report.php" class="btn btn-light btn-lg rounded-pill"> Report Damage <i class="fas fa-angle-right"></i></a>
           </div>
-          <div class="right-block col-md-7">
+          <div class="right-block col-md-5">
           <img src="images/home1.svg" />
           </div>
       </div>
